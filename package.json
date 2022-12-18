@@ -30,7 +30,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "bcoin": "https://github.com/ozoqoproject/bcoin",
-    "bitcoind-rpc": "https://github.com/ozoqoproject/bitcoind-rp",
+    "bitcoind-rpc": "https://github.com/ozoqoproject/bitcoind-rpc",
     "bitcore-lib": "https://github.com/ozoqoproject/bitcore-lib",
     "bitcore-p2p": "https://github.com/ozoqoproject/bitcore-p2p",
     "bn.js": "^4.11.8",
